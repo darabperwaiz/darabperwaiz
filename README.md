@@ -9,7 +9,6 @@ A Full Stack Web Developer and Designer from India.
 
 ###
 
-![darabperwaiz's Stats](https://github-readme-stats.vercel.app/api?username=darabperwaiz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![darabperwaiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darabperwaiz&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
