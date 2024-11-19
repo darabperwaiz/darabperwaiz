@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Sibghatullah 👋,
+# Hi👋,
 A Full Stack Web Developer and Designer from India.
 
 - 📫 How to reach me:
